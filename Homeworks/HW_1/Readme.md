@@ -1,4 +1,4 @@
-## Pragnosis of diabetes and treatment cost predicition
+## Prognosis of diabetes and treatment cost predicition
 
 Datasets:
 - Diabetes

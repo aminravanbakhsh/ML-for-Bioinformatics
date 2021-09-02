@@ -1,5 +1,9 @@
 ## Brain tumor diagnosis
 
+### Brief summary: 
+
+Tumor detection by CNN (VGG16 net) and visualizing essential factors of results by Grad-CAM.
+
 Datasets:
 - No (Healthful)
 - yes (patient)

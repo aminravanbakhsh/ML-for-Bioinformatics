@@ -1,5 +1,7 @@
 ## Prognosis of diabetes and treatment cost predicition
 
+Diabetes detection and treatment cost prediction by patient symptoms and prior data.
+
 Datasets:
 - Diabetes
 - Regression (Treatment cost)

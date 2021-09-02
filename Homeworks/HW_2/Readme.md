@@ -1,5 +1,7 @@
 ## Diagnosis of heart disease
 
+### Brief summary: 
+
 Comparison of probabilistic models (Naive Bayes), Logistic Regression, SVM-kernel, Ensemble learning, Neural Networks to find and implement the best classifier to detect heart diseases, using prior knowledge from patents.
 
 Datasets:

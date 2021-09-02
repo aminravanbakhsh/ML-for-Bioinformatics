@@ -1,5 +1,7 @@
 ## Covid-19 diagnosis
 
+Brief summary: Extracting principal features of sickness symptoms from prior data of patients, using probabilistic models (GMM, EM) to classify patients.
+
 Dataset:
 - Covid Dataset.csv
 
